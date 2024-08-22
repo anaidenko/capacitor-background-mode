@@ -7,7 +7,7 @@ This plugin replace to [capacitor-plugin-background-mode](https://github.com/ang
 ## Install
 
 ```bash
-npm install @anuradev/capacitor-background-mode
+npm install bp-capacitor-background-mode
 npx cap sync
 ```
 
